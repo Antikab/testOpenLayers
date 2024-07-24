@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.map {
+  position: absolute;
+  top: 40px;
+  bottom: 25px;
+  left: 0;
+  width: 500px;
+  height: 500px;
+}
